@@ -4,7 +4,7 @@ import (
 	"log"
 	"os"
 
-	"github.com/Intermernet/motionsplit"
+	"github.com/intermernet/motionsplit"
 )
 
 func main() {

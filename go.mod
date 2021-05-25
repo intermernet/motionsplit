@@ -1,3 +1,3 @@
-module github.com/Intermernet/motionsplit
+module github.com/intermernet/motionsplit
 
 go 1.15
